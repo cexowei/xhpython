@@ -1,4 +1,21 @@
-kdfjtsdkjtskdjtskdsdfsdfsadasdasdasdasdadfjie
-ejhfdikjfie 
-fjiejkdjfieljf
+<<<<<<< HEAD
+dfjtsdkjtskdjtskdsdfsdfsadasdasdasdasdadfjie
+=======
+kdfjtsdkjtskdjtskdsdfsdfsadasdasdasdasda
+
+
+a
+
+df
+dsfsdf
+fddfdsdfsdf
+sd
+fs
+df
+sd
+f
+sd
+f
+
+>>>>>>> x1
 
